@@ -1,4 +1,3 @@
-# Simulator.java
 package tryout;
 
 import java.awt.event.WindowEvent;
