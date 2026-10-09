@@ -1,4 +1,3 @@
-# Gates.java
 package tryout;
 
 import javax.swing.ImageIcon;

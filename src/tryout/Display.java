@@ -1,4 +1,3 @@
-# Display.java
 package tryout;
 
 import java.awt.Dimension;
